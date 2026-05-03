@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV8353SRTAR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-10-08-10:03:13)
+    (mountForm default
+        (footprintRef "QFN50P600X600X80-41N-D")
+        (spec "System")
+    )
+)

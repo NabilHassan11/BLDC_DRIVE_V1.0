@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8353SRTAR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=41
+Version=1.1
+Released=2020-06-15 04:01:16
+Downloaded=2026-03-04 21:55:02
+3D=Y

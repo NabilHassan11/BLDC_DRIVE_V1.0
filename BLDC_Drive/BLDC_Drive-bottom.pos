@@ -1,0 +1,11 @@
+### Footprint positions - created on 2026-03-09T22:32:45+0200 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                PosX       PosY       Rot  Side
+FB1       600Ω_@_100MHz  WE-CBF_0805_W3.0   151.3400  -105.6000  180.0000  bottom
+FB2       600Ω_@_100MHz  WE-CBF_0805_W3.0   151.8400   -75.9500  180.0000  bottom
+FB3       600Ω_@_100MHz  WE-CBF_0805_W3.0   166.4900  -103.6700   90.0000  bottom
+FB4       600Ω_@_100MHz  WE-CBF_0805_W3.0   161.6200   -85.1800  180.0000  bottom
+FB5       600Ω_@_100MHz  WE-CBF_0805_W3.0   162.7500   -51.7600    0.0000  bottom
+## End
