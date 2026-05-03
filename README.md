@@ -181,12 +181,6 @@ Revision date: 2026-03-09
 
 ---
 
-## 📄 License
-
-<!-- Add your license here -->
-> 📝 **[Add license information here — e.g., MIT, CERN OHL, or proprietary]**
-
----
 
 ## 🤝 Contributing
 
