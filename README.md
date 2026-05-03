@@ -7,11 +7,10 @@ A 3-phase Brushless DC (BLDC) motor driver PCB designed in KiCad, capable of han
 ## 📸 Board Preview
 
 <!-- Replace the placeholder below with your actual board image -->
-> 📷 **[Insert top-view board photo or 3D render here]**
+<!-- > 📷 **[Insert top-view board photo or 3D render here]** -->
 
-<!-- Example:
-![BLDC Drive Top View](images/bldc_drive_top.jpg)
--->
+
+[BLDC Drive Top View](images/bldc_drive_top.jpg)
 
 ---
 
