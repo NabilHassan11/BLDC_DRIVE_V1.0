@@ -24,7 +24,7 @@ A 3-phase Brushless DC (BLDC) motor driver PCB designed in KiCad, capable of han
 - **Bulk Decoupling:** 470µF electrolytic capacitors for supply filtering
 - **EMI Filtering:** WE-CBF 0805 ferrite beads and 100nF bypass capacitors
 - **Board Size:** 80mm × 80mm, 2-layer PCB
-- **Connectors:** JST XH series (B2B-XH-A for signal, B9B-XH-A for motor phases)
+- **Connectors:** JST XH series
 - **Designed with:** KiCad 8.0
 
 ---
@@ -57,7 +57,7 @@ A 3-phase Brushless DC (BLDC) motor driver PCB designed in KiCad, capable of han
 | FB1–FBx | Ferrite Bead | WE-CBF 0805, 600Ω@100MHz | EMI filtering |
 | J_motor | JST B9B-XH-A | 9-pin | Motor phase + hall sensor connector |
 | J_signal | JST B2B-XH-A | 2-pin | Signal/control connector |
-| — | Screw Terminals | 2-pin, 3-pin | Power input terminals |
+| — | Screw Terminals | 2-pin, 3-pin | Power input/output terminals |
 
 > 📋 **Full interactive BOM:** [`BLDC_Drive/bom/ibom.html`](BLDC_Drive/bom/ibom.html)
 
