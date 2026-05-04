@@ -98,8 +98,8 @@ BLDC_Drive/
 > 🔲 **[Insert PCB top copper layer image here]**
 
 
-![PCB Top Layer](images/pcb_top.png)
-![PCB Bottom Layer](images/pcb_bottom.png)
+![PCB Top Layer](images/PCB_Top.png)
+![PCB Bottom Layer](images/PCB_Bottom.png)
 
 
 ---
