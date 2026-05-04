@@ -34,10 +34,10 @@ A 3-phase Brushless DC (BLDC) motor driver PCB designed in KiCad, capable of han
 <!-- Add schematic image or PDF link below -->
 > 📐 **[Insert schematic screenshot or link here]**
 
-<!-- Example:
-![Schematic](images/schematic.png)
-Or link to the PDF:
-[View Full Schematic (PDF)](BLDC_Drive/plots/BLDC_Drive__Assembly.pdf)
+
+![Schematic](images/Schematic.png)
+<!-- Or link to the PDF: -->
+<!-- [View Full Schematic (PDF)](BLDC_Drive/plots/BLDC_Drive__Assembly.pdf) -->
 -->
 
 ---
