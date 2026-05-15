@@ -95,7 +95,6 @@ BLDC_Drive/
 ## 🖼 PCB Layout
 
 <!-- Add PCB layout images below -->
-> 🔲 **[Insert PCB top copper layer image here]**
 
 
 ![PCB Top Layer](images/PCB_Top.png)
